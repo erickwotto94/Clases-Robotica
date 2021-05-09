@@ -1,0 +1,9 @@
+opencv-python
+scipy
+python-socketio
+eventlet
+requests
+flask-socketio
+pyzbar
+python-math
+imutils
